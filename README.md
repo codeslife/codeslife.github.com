@@ -1,4 +1,4 @@
-codeslife.github.com
-====================
+codeslife
+=========
 
-blog for codeslife.com
+blog
