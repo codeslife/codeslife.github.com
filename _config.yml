@@ -1,3 +1,24 @@
-markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title/
+markdown:         rdiscount
+pygments:         true
+paginate:         4
+
+title:            CodeslifeB
+url:              http://codeslife.com
+feed:             /atom.xml
+author:
+    name:         larrycai
+    email:        larry.caiyu@gmail.com
+description:      "larrycai's blog -- Codeslife"
+
+about: 			  "I am Larry Cai.I love all kinds of coding and new ways of software development."
+follow:
+    github:       https://github.com/larrycai
+    twitter:      http://www.twitter.com/larrycai
+description:      "larrycai's blog - codeslife backup "
+
+
+style: 			  /css/style.css
+blogName: 		  larrycai
+blogDesc: 		  Better Code, Better Life
